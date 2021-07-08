@@ -1,0 +1,22 @@
+
+
+/* Big tablet to 1023px (width smaller than the 1140px row */
+@media screen and (max-width:1200px){
+    
+}
+
+
+/* Small tablet to big tablet from 768px to 1023px */
+@media screen and (max-width:1023px){
+    
+}
+
+/* Small phone to small tablet from 481px to 767px */
+@media screen and (max-width:767px){
+    
+}
+
+/* Small phone from 0 to 480px */
+@media screen and (max-width:480px){
+    
+}
